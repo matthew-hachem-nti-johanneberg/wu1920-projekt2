@@ -1,0 +1,31 @@
+@media only screen  and (min-width: 375px) {
+    body{
+        margin: 0px;
+    }
+
+    header{
+        background-color: beige;
+    }
+
+    main{
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        
+    }
+
+    footer{
+        background-color: purple;
+        height: 200px;
+    }
+
+
+
+}
+
+@media only screen  and (min-width: 728px) {
+    
+}
+
+@media only screen  and (min-width: 1280px) { 
+
+}
