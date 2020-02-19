@@ -4,11 +4,13 @@
     }
 
     header{
+        height: 300px;
         background-color: beige;
     }
 
     main{
         display: grid;
+        height: 50px;
         grid-template-columns: repeat(5, 1fr);
         
     }
@@ -16,6 +18,13 @@
     footer{
         background-color: purple;
         height: 200px;
+    }
+
+    .star {
+        background-image: url("../img/darkstar.png");
+        background-size: 90%;
+        background-position: center;
+        background-repeat: no-repeat;
     }
 
 
