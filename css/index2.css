@@ -1,0 +1,25 @@
+@media only screen  and (min-width: 375px) {
+
+#backgroundvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    filter: brightness(120%);
+    filter: grayscale(100%);
+    
+}
+
+footer{
+}
+
+}
+
+@media only screen  and (min-width: 728px) {
+    
+}
+
+@media only screen  and (min-width: 1280px) { 
+
+}
