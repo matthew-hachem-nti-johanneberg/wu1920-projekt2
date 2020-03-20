@@ -140,7 +140,6 @@
         margin-right: auto;
         width: 50%;
         height: 100%;
-        position: static;
     }
 
     footer {
@@ -148,8 +147,7 @@
     }
 
     main {
-        margin-top: 100px;
-        overflow: hidden;
+        margin-top: 300px;
     }
 
     h1 {
