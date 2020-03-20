@@ -144,17 +144,22 @@
     }
 
     footer {
+        display: contents;
+        height: 100px;
+    }
+
+    #glitch {
         display: none;
     }
 
     main {
-        margin-top: 100px;
         overflow: hidden;
     }
 
     h1 {
         font-size: 80px;
     }
+
 
 
     
